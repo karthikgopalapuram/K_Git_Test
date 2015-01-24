@@ -6,7 +6,7 @@ $ git init
 $ git add README.md
 $ git commit
 ```
-* On mac this will take you to the default editor(Vi) to escape that you need to do the following : 
+On mac this will take you to the default editor(Vi) to escape that you need to do the following : 
 + Press *Esc*
 + Enter *:wq*
 ```
