@@ -16,8 +16,8 @@ $ nano <your file>
 ```
 You can then write the changes to file and save it using the follwoing commands on mac
 ```sh
-Control + O  -- to write the changes to the file and save
-Control + X  -- exit the editor
+Control + O  # to write the changes to the file and save
+Control + X  # exit the editor
 ```
 
 ``` sh
