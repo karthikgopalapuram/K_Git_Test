@@ -9,6 +9,12 @@ $ git commit
 On mac this will take you to the default editor(Vi) to escape that you need to do the following : 
 + Press *Esc*
 + Enter *:wq*
+
+But you can also use the nano editor for editing text files. The syntax will be as follows :
+``` sh
+$ nano <your file>
+```
+
 ``` sh
 $ git commit -m "First Commit"  # commits everything in staging to be ready to be pushed to Githib
 $ git remote add origin https://github.com/karthikgopalapuram/K_Git_Test.git
